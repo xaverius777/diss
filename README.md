@@ -3,7 +3,7 @@ xaverius777/diss
 In this repository, you can find:
 +CC-Rater
 -The model itself.
--The variables the DNSMOS block needs to work.
+-The variables the DNSMOS block needs to work (weights)
 -The code infrastructure that was used to train and test the model.
 -The model's trained weights.
 +Testset
