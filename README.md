@@ -8,8 +8,6 @@ Abstract from my dissertation:
 
 In this repository, you can find:
 
--My dissertation, in which I give detailed information about the model and the testset.
-
 -CC-Rater
 
     -The model itself.
