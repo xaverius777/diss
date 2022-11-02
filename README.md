@@ -1,6 +1,6 @@
 xaverius777/diss
 
-This repository's primary use is not for its code or data to be used, but rather showcase the work I did for my dissertation in Speech and Language Processing at the University of Edinburgh. That said, if you want to use the code and/or data for your own purposes, please feel free to do so, as long as you give me credit! 
+This repository's primary use is not for its code or data to be used, but rather showcase the work I did for my dissertation in Speech and Language Processing at the University of Edinburgh. That said, if you want to use the code and/or data for your own purposes, please feel free to do so, as long as you give me credit!
 
 Abstract from my dissertation:
 
