@@ -1,10 +1,14 @@
-NOTE: Haven't uploaded everything in this description... yet!
-
 xaverius777/diss
+
+This repository's primary use is not for its code or data to be used, but rather showcase the work I did for my dissertation in Speech and Language Processing at the University of Edinburgh. That said, if you want to use the code and/or data for your own purposes, please feel free to do so, as long as you give me credit! 
+
+Abstract from my dissertation:
 
 "To evaluate Speech Enhancement (SE) systems, the most common method is to conduct subjective listening tests. They are expensive both in terms of time and resources, so a number of objective perceptual metrics have been developed to bypass the need for them. These metrics' quality is measured by the correlation they have with human scores; the model which has the highest one is Deep Noise Suppression Mean Opinion Score (DNSMOS), published by Microsoft. However, it only works for a type of subjective test, Absolute Category Rating (ACR). In this dissertation, we use it as a building block of a wider architecture that predicts another type of subjective listening test, Comparative Category Rating (CCR). The architecture is called Comparative Category Rater (CC-Rater) and we built the test set to evaluate it on, which is composed of 200 pairs of noisy speech and enhanced speech files. CC-Rater's predictions have a correlation of 0.34 with the test set's human scores, which opens the door to the possibility of building a metric that maximises this correlation and greatly decreases the need for CCR subjective listening tests. It also proves that the high quality audio embeddings within DNSMOS enable it to work as a pretrained model that can be used as the base for SE automatic evaluation metrics."
 
 In this repository, you can find:
+
+-My dissertation, in which I give detailed information about the model and the testset.
 
 -CC-Rater
 
